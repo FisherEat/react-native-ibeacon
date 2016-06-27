@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">DxbmA0BUTCnh3FXr6U4am3dtmNl6NyGfqThbb</string>
+    <string name="app_name">BeaconRN</string>
+</resources>
